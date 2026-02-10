@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-   Java •  DSA •  OOP •  Backend Learner
+   Java •  DSA •  OOP •  Backend Learner • Animator • Editor
 </p>
