@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sumant</h1>
+<h1 align="center">Hi, I'm Sumant</h1>
 
 <p align="center">
   <img
@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-  ☕ Java • 🧠 DSA • 🧩 OOP • 🌱 Backend Learner
+   Java •  DSA •  OOP •  Backend Learner
 </p>
