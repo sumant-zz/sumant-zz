@@ -10,4 +10,4 @@
 <p align="center">
    Java •  DSA •  OOP •  Backend Learner • Animator • Editor
 </p>
-![Contribution Snake](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![Contribution Snake](https://raw.githubusercontent.com/sumant-zz/sumant-zz/output/github-contribution-grid-snake-dark.svg)
